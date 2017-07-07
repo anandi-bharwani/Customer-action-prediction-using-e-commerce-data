@@ -27,7 +27,6 @@ def get_binary_data():
     Y2 = Y[Y<=1]
     return X2, Y2
 
-X, Y = get_data()
-print(X.shape, Y.shape)
+get_data()
 
 
