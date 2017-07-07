@@ -1,11 +1,11 @@
- # Customer-action-prediction-using-e-commerce-data
+I # Customer-action-prediction-using-e-commerce-data
 
 The ecommerce data-set contains the following information about 500 customers: 
-1. is visitor visiting site on mobile  or not? 
-2. no of products the consumer has viewed 
-3. for how long a user has visited the site 
+1. Is visitor visiting site on mobile  or not? 
+2. No. of products the consumer has viewed 
+3. For how long a user has visited the site 
 4. Is the user a returning or new user 
-5. time of day if visit. Time is divided into 4 catogories 
+5. Time of day if visit. Time is divided into 4 catogories 
 
 Goal is to create model which predicts the consumer action from the below 4 option: 
 1. bounce, i.e, customer simply returns withot buying 
