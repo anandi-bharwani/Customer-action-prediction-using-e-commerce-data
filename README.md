@@ -1,8 +1,8 @@
-# Customer-action-prediction-using-e-commerce-data
+ # Customer-action-prediction-using-e-commerce-data
 
 The ecommerce data-set contains the following information about some 500 customers: 
 1. is visitor visiting site on mobile  or not? 
-2.no of products the consumer has viewed 
+2. no of products the consumer has viewed 
 3. for how long a user has visited the site 
 4. Is the user a returning or new user 
 5. time of day if visit. Time is divided into 4 catogories 
