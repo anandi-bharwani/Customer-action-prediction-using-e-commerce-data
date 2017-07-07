@@ -1,6 +1,6 @@
  # Customer-action-prediction-using-e-commerce-data
 
-The ecommerce data-set contains the following information about some 500 customers: 
+The ecommerce data-set contains the following information about 500 customers: 
 1. is visitor visiting site on mobile  or not? 
 2. no of products the consumer has viewed 
 3. for how long a user has visited the site 
