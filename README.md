@@ -7,7 +7,7 @@ The ecommerce data-set contains the following information about 500 customers:
 4. Is the user a returning or new user 
 5. Time of day of visit.
 
-The goal of the project is to create model which predicts the consumer action and plaace them in of the 4 categories:- 
+The goal of the project is to create model which predicts the consumer action and place them in of the 4 categories:- 
 1. Bounce: Customer simply exits without buying. 
 2. Add to cart: Cutomer adds products to cart but doesnt buy them.
 3. Check-out: Customer begins to check-out but doesnt finish the transaction 
